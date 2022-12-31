@@ -1,0 +1,847 @@
+body {
+    font-family: "Jost", sans-serif;
+    font-size: 14px;
+}
+
+p {
+    font-size: 12px;
+}
+
+.font-small {
+    font-size: 12px;
+}
+
+h1,
+.h1,
+h2,
+.h2,
+h3,
+.h3,
+h4,
+.h4,
+h5,
+.h5,
+h6,
+.h6 {
+    font-family: "Mulish", sans-serif;
+    font-weight: 700;
+}
+
+.form-control {
+    font-family: "Jost", sans-serif;
+}
+
+.form-control,
+.form-select,
+.form-quantity {
+    font-family: "Jost", sans-serif;
+}
+
+input,
+textarea {
+    font-family: "Jost", sans-serif;
+}
+
+.desktop-list-subitems .nav-item .nav-list-link {
+    text-transform: none !important;
+}
+
+li.nav-item.nav-item-desktop {
+    position: relative;
+}
+
+.js-desktop-dropdown.desktop-dropdown {
+    position: absolute;
+    top: 29px;
+    left: 5px;
+    left: 0px;
+    box-sizing: content-box;
+    box-sizing: content-box;
+    width: 157%;
+}
+
+ul.desktop-list-subitems.list-subitems {
+    display: grid;
+}
+
+li.nav-item.nav-item-desktop {
+    position: relative;
+}
+
+.desktop-list-subitems .nav-item-desktop {
+    display: inline-block;
+}
+
+.desktop-list-subitems {
+    padding: 6px;
+}
+
+.desktop-list-subitems .nav-item .nav-list-link {
+    font-weight: 400 !important;
+    font-size: 14px !important;
+}
+
+a.nav-list-link:hover {
+    background: white;
+    color: #a94549;
+    padding: 3px 7px;
+}
+
+.nav-desktop-list {
+    height: 40px;
+}
+
+.logo-img {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+    margin-bottom: auto;
+    max-height: 55px;
+    padding-top: 8px;
+    padding-bottom: 4px;
+    content: url("https://d2r9epyceweg5n.cloudfront.net/stores/002/640/578/themes/common/logo-68786-1670860076-86745fb65c058125ac12780f19bdb6c21670860076.png?0");
+}
+
+.product-slider-image {
+    width: auto;
+    max-height: 450px;
+    max-width: 450px;
+}
+
+.item-image div[data-store="product-item-image-146757350"] img {
+    content: url("https://d2r9epyceweg5n.cloudfront.net/stores/002/640/578/products/04-magia-da-amazonia-site1-feeaa6162b8ad904b816707180013863-640-0.png");
+}
+
+.item-image div[data-store="product-item-image-146811264"] img {
+    content: url("https://d2r9epyceweg5n.cloudfront.net/stores/002/640/578/products/01-sossego-da-mata-site11-993705185e721f6b7316707627975818-640-0.png");
+}
+
+.item-image div[data-store="product-item-image-146757405"] img {
+    content: url("https://d2r9epyceweg5n.cloudfront.net/stores/002/640/578/products/03-brisa-do-litoral-site1-c0976d092fd00ee9bc16707180474839-640-0.png");
+}
+
+.item-image div[data-store="product-item-image-146757436"] img {
+    content: url("https://d2r9epyceweg5n.cloudfront.net/stores/002/640/578/products/02-energia-do-cerrado-site1-881821db74455f922616707180972550-640-0.png");
+}
+
+.item-image div[data-store="product-item-image-148408298"] img {
+    content: url("https://d2r9epyceweg5n.cloudfront.net/tmp/stores/002/640/578/products/05-colecao-floresta-01.png");
+}
+
+.item-image div[data-store="product-item-image-148410227"] img {
+    content: url("https://d2r9epyceweg5n.cloudfront.net/tmp/stores/002/640/578/products/06-colecao-brasil-012.png");
+}
+
+.product-slider-image div[data-image="415984441"] img {
+    content: url("https://d2r9epyceweg5n.cloudfront.net/tmp/stores/002/640/578/products/06-colecao-brasil-012.png");
+}
+
+
+.section-featured-home {
+    padding: 0 15px;
+}
+
+.item-description {
+    padding: 15px 0px 5px 0;
+    text-align: center;
+}
+
+.search-container {
+    width: 200px;
+}
+
+.logo-md-offset {
+    margin-left: -120px;
+}
+
+@media only screen and (max-width:768px) {
+    .logo-md-offset {
+        margin-left: auto !important;
+    }
+}
+
+@media only screen and (min-width:768px) {
+    .js-home-main-slider-container {
+        margin-bottom: 13px;
+    }
+    a.nav-list-link.position-relative {
+        pointer-events: none !important;
+    }
+}
+
+.nav-list-link {
+    font-size: 14px;
+}
+
+@media only screen and (max-width:768px) {
+    .item-name {
+        font-size: 16px;
+    }
+
+    .item-price {
+        font-size: 14px;
+    }
+
+    .js-addtocart {
+        font-size: 12px;
+        font-family: "jost", sans-serif;
+        padding: 10px;
+        text-transform: lowercase;
+    }
+
+    .item-actions.mt-3 {
+        margin-top: 9px !important;
+    }
+
+    .logo-img {
+        max-height: 50px;
+        padding-bottom: 12px;
+    }
+
+    .section-title {
+        padding: 20px 0px;
+    }
+
+    .head-main.compress .logo-img {
+        max-height: 45px;
+    }
+}
+
+.js-product-slide-link {
+    padding-bottom: 440px !important;
+    max-width: 480px;
+}
+
+.section-title {
+    padding: 20px 0;
+}
+
+@media only screen and (max-width:768px) {
+    .align-items-center {
+        font-size: 30.8px;
+    }
+}
+
+@media only screen and (max-width:433px) {
+    .js-product-slide-link {
+        padding-bottom: 100% !important;
+    }
+}
+
+.section-single-product .col:nth-child(2) {
+    width: 600px;
+    padding-right: 0px;
+}
+
+.grid-item {
+    padding-bottom: 15px !important;
+}
+
+.section-single-product .col-12 .row {
+    margin-top: 30px;
+}
+
+.js-swiper-product.swiper-container {
+    height: auto;
+    max-width: 480px !important;
+}
+
+.swiper-wrapper {
+    max-width: 480px;
+}
+
+.swiper-slide.js-product-slide.slider-slide.swiper-slide-active {
+    max-width: 480px;
+    width: 480px;
+}
+
+.section-single-product {
+    width: max-content;
+    min-width: 60%;
+    max-width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+}
+
+.text-accent {
+    color: #a94549;
+}
+
+.btn-secondary {
+    color: #a94549;
+    border-color: #a94549;
+}
+
+footer .newsletter {
+    max-width: 350px;
+}
+
+footer {
+    margin-top: 0px;
+    padding-top: 20px;
+}
+
+@media only screen and (max-width:768px) {
+    footer {
+        text-align: center;
+    }
+}
+
+@media only screen and (max-width:768px) {
+
+    .mb-5,
+    .my-5 {
+        margin-bottom: 5px !important;
+    }
+}
+
+footer .newsletter {
+    max-height: 70px !important;
+}
+
+.mb-4,
+.my-4 {
+    margin-bottom: 0px !important;
+}
+
+.footer-menu-item {
+    margin-bottom: 10px;
+}
+
+.subtitle {
+    font-size: 11x;
+}
+
+.mb-3,
+.my-3 {
+    margin-top: 10px !important;
+    margin-bottom: 10px !important;
+}
+
+.list {
+    margin-top: 0px;
+}
+
+.footer-legal {
+    background: #fdf9f9;
+    padding: 0px;
+}
+
+.section-products-related,
+.contact-page {
+    margin-bottom: 0px;
+}
+
+.section-featured-home {
+    margin-bottom: 0px;
+}
+
+.account-page,
+.section-footer {
+    margin-bottom: 40px;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 550px;
+}
+
+.contact-page .col-md-6 {
+    flex: 0 0 100%;
+    max-width: 100%;
+}
+
+.account-page .col-md-6 {
+    flex: 0 0 100%;
+    max-width: 100%;
+}
+
+.account-page p.mb-4 {
+    padding-bottom: 10px;
+}
+
+.account-page {
+    max-width: 900px;
+}
+
+.account-page .mb-4, .my-4 {
+    margin-bottom: 25px !important;
+}
+
+.account-page .col-7 {
+    flex: 0 0 50% !important;
+    max-width: 50% !important;
+}
+
+.account-page p {
+    font-size: 14px; 
+}
+
+.form-label {
+    font-size: 10px;
+}
+
+.btn-link-primary {
+    color: #a94549;
+}
+
+svg.icon-inline.mr-1.icon-lg.svg-icon-primary {
+    color: #a94549 !important;
+    filter: invert(39%) sepia(8%) saturate(0%) hue-rotate(308deg) brightness(92%) contrast(104%);
+}
+
+.section-informative-banners {
+    padding: 0px;
+    margin-top: -25px;
+    margin-bottom: 50px;
+}
+
+@media only screen and (max-width:768px) {
+    .section-informative-banners {
+        margin-top: 0px;
+    }
+}
+
+.swiper-wrapper {
+    max-width: 980px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+@media only screen and (max-width:768px) {
+    .m-0 {
+        margin-top: -12px !important;
+    }
+}
+
+.table-discount {
+    color: #a94549 !important;
+}
+
+checkout.scss.tpl,
+.box-discount-coupon-applied {
+    color: #a94549 !important;
+    border-color: #a94549 !important;
+}
+
+.headbar-logo-img {
+    max-width: 100%;
+    max-height: 35px;
+}
+
+@media only screen and (max-width:768px) {
+    footer .newsletter {
+        margin-right: auto;
+        margin-left: auto;
+    }
+}
+
+@media only screen and (max-width:768px) {
+    .align-items-center {
+        font-size: 14px !important;
+    }
+}
+
+@media only screen and (max-width:768px) {
+    .m-0 {
+        margin-top: 0px !important;
+    }
+}
+
+.breadcrumbs {
+    text-transform: lowercase;
+}
+
+.font-weight-bold {
+    text-transform: lowercase;
+}
+
+.h4 {
+    text-transform: lowercase;
+}
+
+.contact-page {
+    margin-bottom: 25px;
+    max-width: 1200px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.pb-5,
+.py-5 {
+    max-width: 1200px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.page-header {
+    max-width: 1200px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.service-item .h4 {
+    margin-top: 3px !important;
+    margin-bottom: 2px !important;
+}
+
+.tab-group .tab.active .tab-link {
+    border: 1px solid #a94549;
+    color: #a94549;
+}
+
+.swiper-wrapper {
+    max-width: 100%;
+}
+
+.user-content .col-md-8 {
+    flex: 0 0 100%;
+    max-width: 100%;
+}
+
+.mb-2,
+.my-2 {
+    margin-left: 2px;
+}
+
+.btn-primary {
+    color: #fff2f2 !important;
+    background-color: #d46a6d !important;
+}
+
+.sobre-nos-img-div {
+    display: inline-block;
+    float: left;
+    width: 362px;
+    margin-bottom: 52px;
+    max-width: 100%;
+    margin-right: 52px;
+}
+
+.sobre-nos-text-div {
+    padding-top: 40px;
+    padding-bottom: 40px;
+    padding-left: 15px;
+    padding-right: 15px;
+    display: inline-block;
+    width: inherit;
+}
+
+.accordion-item {
+    background-color: #a94549;
+    border-radius: .4rem;
+}
+
+.accordion-item h3 {
+    margin-bottom: 0px;
+}
+
+.accordion-item hr {
+    border: 0px solid rgba(255, 255, 255, .5);
+    padding: 0;
+    height: 2px;
+    background: rgba(255, 255, 255, .5);
+    margin-top: 20px;
+}
+
+.accordion-link {
+    font-size: 1.6rem;
+    color: rgba(255, 255, 255, .8);
+    text-decoration: none;
+    background-color: #a94549;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 1rem 0;
+}
+
+.accordion-link h3 {
+    font-weight: 500;
+    font-size: 20px;
+}
+
+.accordion-link i {
+    color: #e7d5ff;
+    padding: .5rem;
+}
+
+.accordion-link ul {
+    display: flex;
+    align-items: flex-end;
+    list-style-type: none;
+    margin-left: 25px;
+}
+
+.accordion-link li {
+    font-size: 10px;
+    color: rgba(255, 255, 255, .4);
+    padding: 0 0 1px 5px;
+}
+
+.accordion-link div {
+    display: flex;
+}
+
+.accordion-link .ion-md-arrow-down {
+    display: none;
+}
+
+.answer {
+    max-height: 0;
+    overflow: hidden;
+    position: relative;
+    background-color: #a94549;
+    transition: max-height 650ms;
+}
+
+.answer p {
+    color: #fff;
+    font-size: 15px;
+    padding: 20px;
+    margin-bottom: 0;
+}
+
+.accordion-item:target .answer {
+    max-height: 20rem;
+}
+
+.accordion-item:target .accordion-link .ion-md-arrow-forward {
+    display: none;
+}
+
+.accordion-item:target .accordion-link .ion-md-arrow-down {
+    display: block;
+}
+
+.faq-section {
+    width: 100%;
+    height: 100vh;
+    background-color: #a94549;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.faq-container {
+    width: 100%;
+    max-width: 80rem;
+    margin: 0 auto;
+    padding: 12px 29px;
+    height: 100%;
+    background-color: #a94549;
+}
+
+.answer ul {
+    color: #fff;
+    font-size: 15px;
+    padding: 0 20px 10px 60px;
+    margin: 0;
+}
+
+.section-featured-home {
+    border-top: none !important;
+}
+
+.js-home-slider .js-swiper-home-control.swiper-pagination {
+    background-color: #ffbdbd !important;
+    opacity: 1;
+    bottom: 23px;
+}
+
+.swiper-pagination-bullet,
+.swiper-pagination-bullet-active {
+    background-color: rgba(169, 69, 73, .38) !important;
+    opacity: .8;
+    margin: 0 3px !important;
+}
+
+.swiper-pagination-bullet-active {
+    opacity: 1;
+}
+
+.swiper-pagination {
+    padding: 4px 2px !important;
+}
+
+.js-swiper-home-control.svg-square {
+    border-radius: 100%;
+    background-color: rgba(255, 156, 156, .75) !important;
+}
+
+.js-swiper-home-control.svg-square.swiper-button-prev {
+    margin-left: 10px;
+}
+
+.js-swiper-home-control.svg-square.swiper-button-next {
+    margin-right: 10px;
+}
+
+.js-swiper-home-control.svg-square svg {
+    height: 16px;
+    width: 16px;
+}
+
+.js-swiper-home-control.svg-square.swiper-button-prev svg {
+    padding-right: 2px;
+}
+
+.js-swiper-home-control.svg-square svg path {
+    fill: white;
+    stroke-width: 26px;
+    stroke: white;
+}
+
+.js-home-main-slider-container .section-slider {
+    background: white;
+}
+
+.js-home-main-slider-visibility {
+    height: calc(100% + 146px);
+}
+.js-home-main-slider-container .container-fluid {
+    height: calc(100% - 146px);
+}
+
+.js-home-main-slider-container .swiper-container{
+    height: calc(100% + 48px);
+}
+
+.js-home-main-slider-container .swiper-wrapper {
+    height: calc(100% - 48px);
+}
+
+.js-home-slider-mobile .swiper-pagination {
+    bottom: 7px;
+}
+
+#product_form .form-row .col-12 {
+    padding-left: 0;
+}
+
+#product_form .form-row {
+    margin-left: 0;
+}
+
+.js-accordion-container.js-toggle-branches.mb-3 {
+    margin-bottom: -10px !important;
+}
+
+.js-toggle-branches span.subtitle {
+    visibility: hidden !important;
+}
+
+.js-toggle-branches .subtitle:before {
+    content: 'Retirada no local';
+    visibility: visible;
+}
+
+.js-toggle-branches .font-small:after {
+    content: "Retirar pessoalmente ou solicitar Uber Flash para entrega (custo não incluso na compra). Detalhes a combinar após confirmação do pagamento. :)";
+}
+
+h4 {
+	margin-bottom: 6px;
+}
+
+.box-discount-coupon-applied {
+    height: 35px;
+    font-size: 9px;
+    padding: 11px;
+}
+
+.reviewsapp input, .reviewsapp textarea {
+    border-radius: 4px;
+    padding: 8px 10px !important;
+    font-family: "Jost",sans-serif;
+    font-size: 12px !important;
+    line-height: 16px;
+    border: 1px solid rgba(51,51,51,0.3) !important;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    color: #333;
+    fill: #333;
+    background-color: #fdf9f9;
+    -webkit-transition: all 0.4s ease;
+    -ms-transition: all 0.4s ease;
+    -moz-transition: all 0.4s ease;
+    -o-transition: all 0.4s ease;
+    transition: all 0.4s ease;
+}
+
+.reviewsapp input[type=file]::file-selector-button {
+    margin-right: 20px;
+    border: none;
+    background: transparent;
+    padding: 10px 20px;
+    border-radius: 4px;
+    color: #a94549;
+    cursor: pointer;
+    transition: background .2s ease-in-out;
+    border: 1px solid #a94549;
+}
+
+.reviewsapp #reviewsapp-newReview #reviewsapp-submit {
+    opacity: 1 !important;
+    background-color: #a94549 !important;
+    color: white !important;
+    float: right;
+}
+
+.reviewsapp #reviewsapp-newReview {
+    width: 94% !important;
+}
+
+
+.sobre-nos-text-div p {
+    font-size: 15px;
+}
+
+.perguntas p {
+    font-size: 14px;
+}
+
+@media only screen and (max-width:768px) {
+    .sobre-nos-img-div img {
+        margin-left: auto;
+        margin-right: auto;
+        align-content: center;
+        display: block;
+        padding-bottom: 30px;
+    }
+    .sobre-nos-img-div {
+        display: contents;
+    }
+}
+
+.reviewsapp .reviewsapp-reviewItem .reviewsapp-title, .reviewsapp .reviewsapp-reviewItem .reviewsapp-text {
+    margin-left: 0 !important;
+}
+
+.reviewsapp #reviewsapp-summary {
+    padding: 30px 0 !important;
+}
+
+.reviewsapp .reviewsapp-reviewItem {
+    padding: 20px 0 !important;
+}
+
+.reviewsapp.reviewsapp-productRating.rio {
+    position: absolute;
+    width: 100%;
+    left: 50%;
+    transform: translateX(-50%);
+    z-index: 6;
+    display: flex;
+    justify-content: center;
+}
+
+.reviewsapp.reviewsapp-productRating div.reviewsapp-rating {
+    margin: 0 7px;
+}
+
+.item-actions {
+    visibility: visible !important;
+    opacity: 1 !important;
+    margin-top: 10px !important;
+}
